@@ -1,0 +1,5 @@
+# cached preprocessing output — do not commit
+shift_df.parquet
+
+# plot outputs
+output/
